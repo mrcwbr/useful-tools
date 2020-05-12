@@ -5,7 +5,10 @@ A list with (online) tool which are useful for different situations
 - Photopea: https://www.photopea.com
   - Free online image editing program with support for e. g. PSD, PNG & JPG 
 
-# Writing:
+## Colaboration:
+- Miro: https://miro.com
+  - Free Online Collaborative Whiteboard Platform
+## Writing:
 - Carbon: https://carbon.now.sh
   - Syntax Highlighter for Word etc.
 
