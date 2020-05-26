@@ -4,6 +4,8 @@ A list with (online) tool which are useful for different situations
 ## Photo (Editor):
 - Photopea: https://www.photopea.com
   - Free online image editing program with support for e. g. PSD, PNG & JPG 
+- Placeit: https://placeit.net/
+  - Online Tool for placing mockups in different images
 
 ## Colaboration:
 - Miro: https://miro.com
