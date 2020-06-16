@@ -4,12 +4,19 @@ A list with (online) tool which are useful for different situations
 ## Photo (Editor):
 - Photopea: https://www.photopea.com
   - Free online image editing program with support for e. g. PSD, PNG & JPG 
+  
+## Illustrations
+- Manypixels: https://www.manypixels.co/gallery/?color=735242&page=1&style=isometric
+  - 3D Illustration Gallery
+- UnDraw: https://undraw.co/illustrations
+  - Humaans Library
 - Placeit: https://placeit.net/
   - Online Tool for placing mockups in different images
 
 ## Colaboration:
 - Miro: https://miro.com
   - Free Online Collaborative Whiteboard Platform
+  
 ## Writing:
 - Carbon: https://carbon.now.sh
   - Syntax Highlighter for Word etc.
