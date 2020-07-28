@@ -18,6 +18,8 @@ A list with (online) tool which are useful for different situations
   - Free Online Collaborative Whiteboard Platform
 - OnRoadmap: https://www.onroadmap.com/basic
   - Create roadmaps with just drag and drop.
+- Figma: https://www.figma.com
+  - Figma helps teams create, test, and ship better designs from start to finish. 
   
 ## Writing:
 - Carbon: https://carbon.now.sh
