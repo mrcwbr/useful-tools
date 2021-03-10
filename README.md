@@ -42,3 +42,6 @@ A list with (online) tool which are useful for different situations
 
 ## Mindmaps:
 - Mindmeister: https://www.mindmeister.com/
+
+## Video editing:
+- DaVinci Resolve: https://www.blackmagicdesign.com/de/products/davinciresolve/
