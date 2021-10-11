@@ -12,6 +12,7 @@ A list with (online) tool which are useful for different situations
   - Humaans Library
 - Placeit: https://placeit.net/
   - Online Tool for placing mockups in different images
+  - [Mockup.photos](https://mockup.photos/) free alternative of placeit
 
 ## Colaboration:
 - Miro: https://miro.com
