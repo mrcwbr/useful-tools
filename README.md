@@ -17,6 +17,8 @@ A list with (online) tool which are useful for different situations
   - Create Online Mockup-Videos for Free
 - Excalidraw https://excalidraw.com/
   - Handwridden Illustration
+- Openmoji https://openmoji.org/
+  - Emoji Library Export to SVG or PNG  
 
 ## Colaboration:
 - Miro: https://miro.com
@@ -40,6 +42,8 @@ A list with (online) tool which are useful for different situations
 - awork: https://www.awork.io/pricing/
 
 ## Surveys:
+- squib www.squib.app
+  - Create A/B Testing Links
 - Typeform: https://www.typeform.com/
 
 ## Recruiting:
