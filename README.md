@@ -4,6 +4,8 @@ A list with (online) tool which are useful for different situations
 ## Photo (Editor):
 - Photopea: https://www.photopea.com
   - Free online image editing program with support for e. g. PSD, PNG & JPG 
+- Picsart: https://picsart.com/de
+  - Edit Photos and Videos in web
   
 ## Illustrations
 - Manypixels: https://www.manypixels.co/gallery/?color=735242&page=1&style=isometric
