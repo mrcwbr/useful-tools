@@ -6,3 +6,6 @@
 
 ## Customer Feedback
   * [Frill](https://frill.co/) - A better way to collect customer feedback. Capture, organize, and announce product feedback in one place. 
+
+## Mockups
+  * [previewed](https://previewed.app/) - Create Awesome Mockups for App Storces, Blogs, Socia Media ...
