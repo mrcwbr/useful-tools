@@ -56,3 +56,4 @@ A list with (online) tool which are useful for different situations
 
 ## Video editing:
 - DaVinci Resolve: https://www.blackmagicdesign.com/de/products/davinciresolve/
+- https://ezgif.com/cut-video (cut, crop, reverse, speed ...)
