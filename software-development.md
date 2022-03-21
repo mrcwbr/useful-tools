@@ -8,4 +8,5 @@
   * [Frill](https://frill.co/) - A better way to collect customer feedback. Capture, organize, and announce product feedback in one place. 
 
 ## Mockups
-  * [previewed](https://previewed.app/) - Create Awesome Mockups for App Storces, Blogs, Socia Media ...
+* [previewed.app](https://previewed.app/) - Create Awesome Mockups for App Storces, Blogs, Socia Media ...
+* [app-mockup.com](https://app-mockup.com/) - AppMockUp Studio is the online design tool trusted by mobile developers to create the most compelling screenshots for the App Store & Play Store
