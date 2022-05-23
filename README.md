@@ -6,6 +6,8 @@ A list with (online) tool which are useful for different situations
   - Free online image editing program with support for e. g. PSD, PNG & JPG 
 - Picsart: https://picsart.com/de
   - Edit Photos and Videos in web
+- Squoosh https://squoosh.app
+  - Image optimizer and compressor   
   
 ## Illustrations
 - Manypixels: https://www.manypixels.co/gallery/?color=735242&page=1&style=isometric
