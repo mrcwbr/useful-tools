@@ -17,6 +17,8 @@ A list with (online) tool which are useful for different situations
 - Placeit: https://placeit.net/
   - Online Tool for placing mockups in different images
   - [Mockup.photos](https://mockup.photos/) free alternative of placeit
+- Mock.photo: https://www.mock.photo
+  - Create Online Device-Mockup-Photos for Free
 - Mock.Video: https://www.mock.video
   - Create Online Mockup-Videos for Free
 - Excalidraw https://excalidraw.com/
