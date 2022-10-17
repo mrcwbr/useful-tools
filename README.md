@@ -25,6 +25,8 @@ A list with (online) tool which are useful for different situations
   - Handwridden Illustration
 - Openmoji https://openmoji.org/
   - Emoji Library Export to SVG or PNG  
+- Loardicon: https://lordicon.com/
+  - Animated Logos
 
 ## Colaboration:
 - Miro: https://miro.com
