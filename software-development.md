@@ -10,3 +10,6 @@
 ## Mockups
 * [previewed.app](https://previewed.app/) - Create Awesome Mockups for App Storces, Blogs, Socia Media ...
 * [app-mockup.com](https://app-mockup.com/) - AppMockUp Studio is the online design tool trusted by mobile developers to create the most compelling screenshots for the App Store & Play Store
+
+## Colors
+* [palettemaker.com](https://palettemaker.com/)
