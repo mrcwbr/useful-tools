@@ -16,3 +16,4 @@
 
 ## Colors
 * [palettemaker.com](https://palettemaker.com/)
+* [https://adevade.github.io/color-scheme-generator/](color-scheme-generator) Generates Brand, CTA, Info, Warning, Success & Danger color
