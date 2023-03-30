@@ -16,5 +16,5 @@
 
 ## Colors
 * [palettemaker.com](https://palettemaker.com/)
-* [color-scheme-generator]([color-scheme-generator](https://adevade.github.io/color-scheme-generator/)) Generates Brand, CTA, Info, Warning, Success & Danger color
+* [color-scheme-generator](https://adevade.github.io/color-scheme-generator/) Generates Brand, CTA, Info, Warning, Success & Danger color
 * [maketintsandshades.com](https://maketintsandshades.com/) Tint & Shade Generator
