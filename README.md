@@ -10,6 +10,8 @@ A list with (online) tool which are useful for different situations
   - Image optimizer and compressor   
   
 ## Illustrations
+- SVG Repo https://www.svgrepo.com
+  - 500.000+ Open-licensed SVG Vector and Icons
 - Manypixels: https://www.manypixels.co/gallery/?color=735242&page=1&style=isometric
   - 3D Illustration Gallery
 - UnDraw: https://undraw.co/illustrations
