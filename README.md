@@ -56,8 +56,9 @@ A list with (online) tool which are useful for different situations
   - Create A/B Testing Links
 - Typeform: https://www.typeform.com/
 
-## Recruiting:
-- Recruitee: https://recruitee.com/de
+## Icons:
+- [Lucide](https://lucide.dev/)
+- [Ion Icons](https://ionic.io/ionicons)
 
 ## Mindmaps:
 - Mindmeister: https://www.mindmeister.com/
